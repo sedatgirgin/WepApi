@@ -1,0 +1,14 @@
+C:\Users\serka\WorkSpace\WebApi\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.deps.json
+C:\Users\serka\WorkSpace\WebApi\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.runtimeconfig.json
+C:\Users\serka\WorkSpace\WebApi\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.runtimeconfig.dev.json
+C:\Users\serka\WorkSpace\WebApi\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.dll
+C:\Users\serka\WorkSpace\WebApi\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.pdb
+C:\Users\serka\WorkSpace\WebApi\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.csprojAssemblyReference.cache
+C:\Users\serka\WorkSpace\WebApi\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\serka\WorkSpace\WebApi\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.RazorAssemblyInfo.cache
+C:\Users\serka\WorkSpace\WebApi\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.RazorAssemblyInfo.cs
+C:\Users\serka\WorkSpace\WebApi\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.AssemblyInfoInputs.cache
+C:\Users\serka\WorkSpace\WebApi\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.AssemblyInfo.cs
+C:\Users\serka\WorkSpace\WebApi\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.RazorTargetAssemblyInfo.cache
+C:\Users\serka\WorkSpace\WebApi\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.dll
+C:\Users\serka\WorkSpace\WebApi\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.pdb
